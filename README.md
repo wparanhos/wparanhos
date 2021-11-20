@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Wady Elias Paranhos
-- 👀 I’m interested in code samples
+- 👀 I’m interested in mobile and multiplatform apps
 - 🌱 I’m currently learning Javascript
 - 📫 Find me at wadyparanhos@hotmail.com
 
